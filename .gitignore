@@ -1,7 +1,9 @@
+
 .idea/
-allure/
+.allure
 allure-results/
 allure-report/
+
 # Compiled class file
 *.class
 
